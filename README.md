@@ -1,6 +1,9 @@
 
-<h1>Hi, I'm Vinay g b! </h1>
-
+<h1>Hi, I'm VINAY G B! </br>
+  <a href="https://www.linkedin.com/in/vinay-gb-225a98251/" target="_blank" style="text-decoration: none; color: inherit;">
+    🕵🏻 Cybersecurity Enthusiast
+  </a>
+</h1>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [SIEM AND SOC](https://github.com/vins2580/SIEM-SOC-PROJECT)
