@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [SIEM AND SOC](https://github.com/vins2580)
+  - [SIEM AND SOC](https://github.com/vins2580/SIEM-SOC-PROJECT)
 
 
 
